@@ -1,14 +1,12 @@
-# MNIST
+<div align="center"> 
 
-<br /> <div align="center"> 
-
-<h3 align="center">PyTorch MNIST Neuronal Network Classifier</h3>
+<h1 align="center">PyTorch MNIST Neuronal Network Classifier</h1>
 
 <p align="center"> A project demonstrating how to train a Neuronal Network for MNIST digit recognition and optimize its hyperparameters using PyTorch and Optuna. <br />  </p> </div>
 
 <!-- TABLE OF CONTENTS -->
 
-<details> <summary>Table of Contents</summary> <ol> <li> <a href="#about-the-project">About The Project</a> <ul> <li><a href="#built-with">Built With</a></li> </ul> </li> <li> <a href="#getting-started">Getting Started</a></li> <li><a href="#usage">Usage</a></li><li><a href="#contributing">Contributing</a></li> <li><a href="#license">License</a></li> <li><a href="#contact">Contact</a></li> <li><a href="#acknowledgments">Acknowledgments</a></li> </ol> </details>
+<details> <summary>Table of Contents</summary> <ol> <li> <a href="#about-the-project">About The Project</a> <ul> <li><a href="#built-with">Built With</a></li> </ul> </li> <li> <a href="#getting-started">Getting Started</a></li> <li><a href="#usage">Usage</a></li><li><a href="#contributing">Contributing</a></li> <li><a href="#license">License</a></li>  </ol> </details>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -83,11 +81,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## License
 
 This project does not have a license. Feel free to fork, modify, and use it as you see fit.
-
-<!-- CONTACT -->
-
-## Contact
-
-vannsoko 
-
-Project Link: [https://github.com/vannsoko/MNIST](https://github.com/vannsoko/MNIST "null")
